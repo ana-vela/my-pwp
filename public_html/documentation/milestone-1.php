@@ -29,10 +29,10 @@
 					<li><strong>Age:</strong> 35</li>
 					<li><strong>Profession:</strong> Christina, founder of ABQ Web Development, is looking to expand her staff by hiring a few interns so the company can take on more projects.</li>
 					<li><strong>Technology:</strong> Christina and her staff use Windows 10 for all their projects and most have Android phones.</li>
-				<li><strong>Attitudes and Behaviors:</strong> Christina will spend a few minutes to look through portfolio sites of applicants in hopes of finding the best candidates of interns.</li>
-				<li><strong>Frustrations and Needs:</strong> Christina needs interns who are familiar with Angular 2 and are willing get further training with the various programs and procedures adopted in her web group.</li>
-				<li><strong>Goal:</strong> Because she is short on time, she will scan the portfolio sites of the top 10 potential candidates who have the experience she is looking for.</li>
-			</ul>
+					<li><strong>Attitudes and Behaviors:</strong> Christina will spend a few minutes to look through portfolio sites of applicants in hopes of finding the best candidates of interns.</li>
+					<li><strong>Frustrations and Needs:</strong> Christina needs interns who are familiar with Angular 2 and are willing get further training with the various programs and procedures adopted in her web group.</li>
+					<li><strong>Goal:</strong> Because she is short on time, she will scan the portfolio sites of the top 10 potential candidates who have the experience she is looking for.</li>
+				</ul>
 
 		</section>
 
