@@ -1,9 +1,8 @@
-
 <!DOCTYPE html>
-	<html>
-
+<html lang="en">
 	<head>
-
+		<meta charset="UTF-8" />
+		<!-- start title -->
 		<title>My PWP</title>
 	</head>
 
@@ -32,7 +31,7 @@
 					<li><strong>Technology:</strong> Christina and her staff use Windows 10 for all their projects and most have Android phones.</li>
 				<li><strong>Attitudes and Behaviors:</strong> Christina will spend a few minutes to look through portfolio sites of applicants in hopes of finding the best candidates of interns.</li>
 				<li><strong>Frustrations and Needs:</strong> Christina needs interns who are familiar with Angular 2 and are willing get further training with the various programs and procedures adopted in her web group.</li>
-				<li><strong>Goals:</strong> Because she is short on time, she will scan the portfolio sites of the top 10 potential candidates who have the experience she is looking for.</li>
+				<li><strong>Goal:</strong> Because she is short on time, she will scan the portfolio sites of the top 10 potential candidates who have the experience she is looking for.</li>
 			</ul>
 
 		</section>
@@ -42,9 +41,6 @@
 			<h2>Use Case</h2>
 				<p>Christina advertised for two interns on a college job board and asked for potential candidates to include a resume and cover letter with a portfolio link. After one week, Christina looks at the applications so far. Because there are so many applicants, she chooses the top 10 candidates and browses through their portfolio sites. Christina sees that I am one of the few applicants with Angular 2 experience. She also recognizes my name from a networking event at FatPipe ABQ. After looking through my portfolio site, Christina decides to call me that day to set up an interview for Tuesday morning of the following week.
 				</p>
-
 		</section>
-
-
 	</body>
 </html>
