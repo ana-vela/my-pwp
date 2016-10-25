@@ -9,7 +9,7 @@
 	<body>
 		<h1>Milestone 2</h1>
 
-		<img src="../img/anavela-desktop-wireframe.png" alt="desktop wireframe">
+		<img src="../img/anavela-desktop.png" alt="desktop wireframe">
 		<img src="../img/anavela-mobile-wireframe.png" alt="mobile wireframe">
 
 	</body>
