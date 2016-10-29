@@ -2,14 +2,14 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		 <!-- title of assignment here -->
+		 	<!-- title of assignment here -->
 			<title>Milestone 2 Documentation</title>
 	</head>
 
 	<body>
 		<h1>My PWP - Milestone 2a</h1>
 
-		<!--content strategy starts here -->
+			<!--content strategy starts here -->
 			<section>
 				<h2>Content Strategy</h2>
 
@@ -21,14 +21,14 @@
 					</ul>
 			</section>
 
-		<!--wireframes start here -->
+			<!--wireframes start here -->
 			<section>
 				<h2>Full Screen Layout</h2>
 					<img src="../img/anavela-desktop.png" alt="desktop wireframe">
 
 				<h2>Mobile Layout</h2>
-				<p>These are approximations. With the help of Bootstrap, the features will be adjusted based on screen size.</p>
-					<img src="../img/anavela-mobile-wireframe.png" alt="mobile wireframe">
+					<p>These are approximations. With the help of Bootstrap, the features will be adjusted based on screen size.</p>
+						<img src="../img/anavela-mobile-wireframe.png" alt="mobile wireframe">
 			</section>
 
 		</body>
