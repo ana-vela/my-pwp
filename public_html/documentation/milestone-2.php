@@ -15,8 +15,8 @@
 
 					<ul>
 						<li>Header: My name and title will be in the center of the header. There will be a navigation bar below the header where visitors can easily locate the other categories on my site.</li>
-						<li>About Me: I will describe my path to web development and a little more about myself. I will include my strengths and personality traits to emphasis how I could be a compatible team member. There will be a table where I list the technical skills I've gained during DDCB.</li>
-						<li>Portfolio: This will be the image gallery for my projects. I will list  a short description of each project, what frameworks and programming languages I used, and how I worked on it (i.e. capstone group project or freelance work with other developers).</li>
+						<li>About Me: I will describe my path to web development and a little more about myself. I will include my strengths and personality traits to emphasize how I could be a compatible team member. There will be a table where I list the technical skills I've gained during DDCB.</li>
+						<li>Portfolio: This will be the image gallery for my projects. I will provide a short description of each project, what frameworks and programming languages I used, how I worked on it (i.e. capstone group project or freelance work with other developers), and the process of creating the project including how problems were solved. </li>
 						<li>Contact: Those interested in working with me can send me a message through the website. This will be a simple form with the essential fields to fill out. The footer will have icons directing visitors to my other profiles on the web. Next to the contact form, I will invite them to contact me for contract work or positions at their organization.</li>
 					</ul>
 			</section>
