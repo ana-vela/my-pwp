@@ -38,6 +38,21 @@
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
 
+			<!-- begin name and title section -->
+			<section>
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="jumbotron text-center">
+								<h1>Ana Vela</h1>
+								<p class="lead">Web Developer</p>
+							</div>
+						</div><!-- /.col-sm-12 -->
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+
+
 
 
 
