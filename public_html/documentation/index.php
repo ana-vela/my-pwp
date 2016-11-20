@@ -56,19 +56,101 @@
 	<!-- about me section -->
 
 	<section>
-		<div class="container-fluid">
+		<div class="container-fluid center-fixed">
 			<div class="row">
 				<div class="col-md-6">
 					<p>Where's tFace like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth. Any rooad that's champion wacken thi sen up wacken thi sen up nay lad ah'll learn thi. God's own county nah then ne'ermind will 'e 'eckerslike ee by gum. Eeh appens as maybe appens as maybe ne'ermind.Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth. Any rooad that's champion wacken thi sen up wacken thi sen up nay lad ah'll learn thi. God's own county nah then ne'ermind will 'e 'eckerslike ee by gum. Eeh appens as maybe appens as maybe ne'ermind. Th'art nesh thee is that thine be reet ee by gum. Sup wi' 'im shurrup.</p>
+					</div>
 						<div class="col-md-6">
 							<img src="../img/decoration.jpg" alt="table" class="img-responsive">
 						</div>
-				</div> <!--/.col-md 6 -->
+
 			</div> <!-- /.row -->
 		</div> <!-- container-fluid -->
 	</section>
 
 
+	<!-- Portfolio Grid Section -->
+	<section id="portfolio" class="bg-light-gray">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="text-center">
+					<h1 class="section-heading">Portfolio</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-md-3 portfolio-item">
+					<a href="#portfolio1" class="portfolio-link" data-toggle="modal">
+						<img src="../img/coming-soon.png" class="img-responsive" alt="coming soon">
+					</a>
+					<div class="portfolio-caption">
+						<h4>Growify</h4>
+						<p class="text-muted">Description</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 portfolio-item">
+					<a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+						<img src="../img/coming-soon.png" class="img-responsive" alt="soming soon">
+					</a>
+					<div class="portfolio-caption">
+						<h4>Project</h4>
+						<p class="text-muted">Description</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 portfolio-item">
+					<a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
 
+						<img src="../img/coming-soon.png" class="img-responsive" alt="coming soon">
+					</a>
+					<div class="portfolio-caption">
+						<h4>Project</h4>
+						<p class="text-muted">Description</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 portfolio-item">
+					<a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+
+						<img src="../img/coming-soon.png" class="img-responsive" alt="coming soon">
+					</a>
+					<div class="portfolio-caption">
+						<h4>Project</h4>
+						<p class="text-muted">Description</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<!-- contact section -->
+
+	<section>
+<div class="container-fluid">
+	<h1>Let's Connect</h1>
+
+	<h2>Name</h2>
+	<h2>Email</h2>
+	<h2>Subject</h2>
+	<h2>Message</h2>
+
+</div>
+
+	</section>
+
+
+<!-- footer section -->
+	<footer class="footer text-center">
+		<div class="container">
+			<!--<p class="text-muted text-center">My sticky footer</p> -->
+			<a href="https://www.linkedin.com/in/ana-vela">
+				<span class="fa fa-linkedin-square fa-3x" aria-hidden="true"></span>
+			</a>
+			<a href="https://github.com/ana-vela">
+				<span class="fa fa-github-square fa-3x" aria-hidden="true"></span>
+			</a>
+		</div>
+
+
+
+	</footer>
 
 </html>

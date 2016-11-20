@@ -4,16 +4,59 @@
 
 .jumbotron {
 
-	background: url("../img/computer.jpg")no-repeat center center;
+	background: url("../img/notebook-1.jpg")no-repeat center center fixed;
 	background-size: cover;
-	background-attachment: fixed;
+
+
 	height: 400px;
 	width: 100%;
 	display: table;
 	vertical-align: middle;
-	color: beige;
+	color: floralwhite;
 	position: relative;
 	padding: 150px 15px;
 	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 5rem;
 }
 
+section {
+	margin: 30px 0;
+
+
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	/* Margin bottom by footer height */
+	margin-bottom: 60px;
+}
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: 60px;
+	background-color: lightgray;
+
+		//*#f5f5f5; *//
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+	width: auto;
+	max-width: 680px;
+	padding: 0 15px;
+}
+.container .text-muted {
+	margin: 20px 0;
+}

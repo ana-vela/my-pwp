@@ -27,4 +27,7 @@
 <!--FONT AWESOME-->
 <script src="https://use.fontawesome.com/ccafd2629e.js"></script>
 
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+
 <title>My PWP</title>
