@@ -59,10 +59,13 @@
 		<div class="container-fluid center-fixed">
 			<div class="row">
 				<div class="col-md-6">
+					<h1>About Me</h1>
 					<p>Where's tFace like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth. Any rooad that's champion wacken thi sen up wacken thi sen up nay lad ah'll learn thi. God's own county nah then ne'ermind will 'e 'eckerslike ee by gum. Eeh appens as maybe appens as maybe ne'ermind.Will 'e 'eckerslike mardy bum bobbar. Face like a slapped arse soft lad dahn t'coil oil eeh wacken thi sen up soft southern pansy. Bobbar michael palin ah'll gi' thee a thick ear ne'ermind aye. Breadcake soft southern pansy tha daft apeth. Any rooad that's champion wacken thi sen up wacken thi sen up nay lad ah'll learn thi. God's own county nah then ne'ermind will 'e 'eckerslike ee by gum. Eeh appens as maybe appens as maybe ne'ermind. Th'art nesh thee is that thine be reet ee by gum. Sup wi' 'im shurrup.</p>
 					</div>
 						<div class="col-md-6">
-							<img src="../img/decoration.jpg" alt="table" class="img-responsive">
+
+
+							<img src="../img/keyboard.jpg" alt="table" class="img-responsive">
 						</div>
 
 			</div> <!-- /.row -->
@@ -140,8 +143,8 @@
 <!-- footer section -->
 	<footer class="footer text-center">
 		<div class="container">
-			<!--<p class="text-muted text-center">My sticky footer</p> -->
-			<a href="https://www.linkedin.com/in/ana-vela">
+			<!-- <p class="text-muted text-center">My sticky footer</p> -->
+			<!-- <a href="https://www.linkedin.com/in/ana-vela"> -->
 				<span class="fa fa-linkedin-square fa-3x" aria-hidden="true"></span>
 			</a>
 			<a href="https://github.com/ana-vela">
