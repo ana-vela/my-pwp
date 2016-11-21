@@ -83,7 +83,7 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-12 col-md-3 portfolio-item">
-					<a href="#portfolio1" class="portfolio-link" data-toggle="modal">
+					<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
 						<img src="../img/coming-soon.png" class="img-responsive" alt="coming soon">
 					</a>
 					<div class="portfolio-caption">
@@ -111,7 +111,7 @@
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 portfolio-item">
-					<a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+					<a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
 
 						<img src="../img/coming-soon.png" class="img-responsive" alt="coming soon">
 					</a>
@@ -124,19 +124,16 @@
 		</div>
 	</section>
 
-<!-- contact section -->
+<!-- contact section - need to learn how to create contact form -->
 
 	<section>
 <div class="container-fluid">
 	<h1>Let's Connect</h1>
-
 	<h2>Name</h2>
 	<h2>Email</h2>
 	<h2>Subject</h2>
 	<h2>Message</h2>
-
 </div>
-
 	</section>
 
 
@@ -146,13 +143,10 @@
 			<!-- <p class="text-muted text-center">My sticky footer</p> -->
 			<!-- <a href="https://www.linkedin.com/in/ana-vela"> -->
 				<span class="fa fa-linkedin-square fa-3x" aria-hidden="true"></span>
-			</a>
 			<a href="https://github.com/ana-vela">
 				<span class="fa fa-github-square fa-3x" aria-hidden="true"></span>
 			</a>
 		</div>
-
-
 
 	</footer>
 
