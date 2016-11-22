@@ -8,6 +8,9 @@
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+
 <!-- my custom css file -->
 <link rel="stylesheet" href="../css/style.css" type="text/css">
 
@@ -27,7 +30,6 @@
 <!--FONT AWESOME-->
 <script src="https://use.fontawesome.com/ccafd2629e.js"></script>
 
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
 
-<title>My PWP</title>
+
+<title>Ana Vela - Web Developer</title>
