@@ -27,7 +27,7 @@
 									<li><a href="#">Home</a></li>
 									<li><a href="#about">About Me</a></li>
 									<li><a href="#portfolio">Portfolio</a></li>
-									<li><a href="#">Let's Connect</a></li>
+									<li><a href="#contact">Let's Connect</a></li>
 								</ul>
 							</div>
 						</div>
@@ -141,17 +141,73 @@
 				</div>
 	</section>
 
-<!-- contact section - need to learn how to create contact form -->
 
-	<section>
-<div class="container-fluid">
-	<h1>Let's Connect</h1>
-	<h2>Name</h2>
-	<h2>Email</h2>
-	<h2>Subject</h2>
-	<h2>Message</h2>
-</div>
-	</section>
+	<!-- insert contact form-->
+
+	<div class="container-fluid">
+		<a name="contact"></a>
+		<div class="row">
+			<div class="text-center">
+				<h1 class="section-heading">Let's Connect</h1>
+			</div>
+		</div>
+				<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
+					<div class="form-group">
+						<label for="name">Name</label>
+						<div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-user"></i>
+							</div>
+							<input class="form-control" type="text" name="name" id="name" placeholder="Your Name">
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="email">Email</label>
+						<div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-envelope"></i>
+							</div>
+							<input class="form-control" type="email" name="email" id="email" placeholder="Your Email">
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="subject">Subject</label>
+						<div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-pencil"></i>
+							</div>
+							<input class="form-control" type="text" name="subject" id="subject" placeholder="Subject">
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="message">Message</label>
+						<div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-comment"></i>
+							</div>
+							<textarea name="message" rows="5" id="message" class="form-control" placeholder="Your Message (2000 charaters max)"></textarea>
+						</div>
+
+
+
+					<!-- google recapcha -->
+					<div class="g-recaptcha" data-sitekey=""></div>
+
+					<button class="btn btn-default" type="reset">Reset</button>
+					<button class="btn btn-info" type="submit">Submit</button>
+				</form>
+		<!--empty area for form error/success output-->
+		<div class="row">
+			<div class="col-xs-12">
+				<div id="output-area"></div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
 
 
 <!-- footer section -->
