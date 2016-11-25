@@ -8,8 +8,8 @@
 
 	<!-- begin header and navbar-->
 	<header>
-		<nav class="navbar navbar-default">
-			<div class="container">
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container-fluid">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -21,14 +21,42 @@
 				</div>
 
 
+							<!-- Collect the nav links, forms, and other content for toggling -->
+							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+								<ul class="nav navbar-nav navbar-right">
+									<li><a href="#">Home</a></li>
+									<li><a href="#about">About Me</a></li>
+									<li><a href="#portfolio">Portfolio</a></li>
+									<li><a href="#">Let's Connect</a></li>
+								</ul>
+							</div>
+						</div>
+				</header>
+
+				<!-- begin name and title section -->
+				<section class="welcome">
+					<div class="container-fluid text-center">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="jumbotron vertical-center">
+									<h1>Ana Vela</h1>
+									<h2>Web Developer</h2>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+
+				<!-- Example Anchor Links -->
+
+				<a name="portfolio"></a>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<!--<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav">
 							<li class="active"></li>
-
 						</ul>
-
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="#">Home</a></li>
 							<li><a href="#">About Me</a></li>
@@ -36,26 +64,14 @@
 							<li><a href="#">Let's Connect</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
-				</div><!-- /.container-fluid -->
+				<!--</div>--><!-- /.container-fluid -->
 
-			<!-- begin name and title section -->
-			<section>
-				<div class="container-fluid text-center">
-					<div class="row">
-						<div class="col-sm-12">
-							<div class="jumbotron vertical-center">
-								<h1>Ana Vela</h1>
-								<p class="lead">Web Developer</p>
-							</div>
-						</div><!-- /.col-sm-12 -->
-					</div><!-- /.row -->
-				</div><!-- /.container-fluid -->
-			</section>
-	</header>
+
 
 	<!-- about me section -->
 
-	<section>
+	<section id="about">
+
 		<div class="container-fluid center-fixed">
 			<div class="row">
 				<div class="col-md-6">
@@ -74,7 +90,9 @@
 
 
 	<!-- Portfolio Grid Section -->
+	<a name="portfolio"></a>
 	<section id="portfolio" class="bg-light-gray">
+
 		<div class="container-fluid">
 			<div class="row">
 				<div class="text-center">
@@ -82,16 +100,17 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12 col-md-3 portfolio-item">
+				<div class="col-xs-12 col-md-6 portfolio-item">
 					<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
 						<img src="../img/coming-soon.png" class="img-responsive" alt="coming soon">
 					</a>
-					<div class="portfolio-caption">
+				</div>
+					<div class="col-xs-12 col-md-6 portfolio-caption">
 						<h4>Growify</h4>
 						<p class="text-muted">Description</p>
 					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 portfolio-item">
+
+				<!--<div class="col-md-3 col-sm-6 portfolio-item">
 					<a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
 						<img src="../img/coming-soon.png" class="img-responsive" alt="soming soon">
 					</a>
@@ -117,7 +136,7 @@
 					</a>
 					<div class="portfolio-caption">
 						<h4>Project</h4>
-						<p class="text-muted">Description</p>
+						<p class="text-muted">Description</p>-->
 					</div>
 				</div>
 			</div>
