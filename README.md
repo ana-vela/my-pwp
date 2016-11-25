@@ -25,3 +25,6 @@ For your Social Media and other icons, take a look [Font Awesome](http://fontawe
 Prior to our in-class coverage on the Bootstrap framework this Thursday, have a look at the [Official Bootstrap Documentation](http://getbootstrap.com/) and the [Deep Dive Bootstrap Material](https://bootcamp-coders.cnm.edu/class-materials/bootstrap/).
 
 Very nice work here. Your Milestone 2&alpha; passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Prior to covering Bootstrap on Thursday, you can opt to use this time to begin collecting and creating your content and imagery.
+
+## Milestone 2&beta; Feedback
+Nice work. Your Milestone 2&beta; passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). 
