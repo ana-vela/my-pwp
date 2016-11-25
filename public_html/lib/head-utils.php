@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
 
 <!-- my custom css file -->
-<link rel="stylesheet" href="../css/style.css" type="text/css">
+<link rel="stylesheet" href="../public_html/css/style.css" type="text/css">
 
 <!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

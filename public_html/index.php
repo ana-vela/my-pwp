@@ -2,13 +2,13 @@
 
 	<html lang="en">
 	<head>
-		<?php require_once("../lib/head-utils.php");?>
+		<?php require_once("../public_html/lib/head-utils.php");?>
 	</head>
 
 
 	<!-- begin header and navbar-->
 	<header>
-		<nav class="navbar navbar-default navbar-fixed-top">
+		<nav class="navbar navbar-default navbar-fixed-bottom">
 			<div class="container-fluid">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
@@ -23,7 +23,7 @@
 
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-								<ul class="nav navbar-nav navbar-right">
+								<ul class="nav navbar-nav navbar-left">
 									<li><a href="#">Home</a></li>
 									<li><a href="#about">About Me</a></li>
 									<li><a href="#portfolio">Portfolio</a></li>
@@ -34,7 +34,7 @@
 				</header>
 
 				<!-- begin name and title section -->
-				<section class="welcome">
+				<div class="welcome">
 					<div class="container-fluid text-center">
 						<div class="row">
 							<div class="col-sm-12">
@@ -45,7 +45,7 @@
 							</div>
 						</div>
 					</div>
-				</section>
+				</div>
 
 
 				<!-- Example Anchor Links -->
@@ -81,7 +81,7 @@
 						<div class="col-md-6">
 
 
-							<img src="../img/keyboard.jpg" alt="table" class="img-responsive">
+							<img src="../public_html/img/keyboard.jpg" alt="table" class="img-responsive">
 						</div>
 
 			</div> <!-- /.row -->
@@ -102,7 +102,7 @@
 			<div class="row">
 				<div class="col-xs-12 col-md-6 portfolio-item">
 					<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-						<img src="../img/coming-soon.png" class="img-responsive" alt="coming soon">
+						<img src="../public_html/img/coming-soon.png" class="img-responsive" alt="coming soon">
 					</a>
 				</div>
 					<div class="col-xs-12 col-md-6 portfolio-caption">
@@ -139,8 +139,6 @@
 						<p class="text-muted">Description</p>-->
 					</div>
 				</div>
-			</div>
-		</div>
 	</section>
 
 <!-- contact section - need to learn how to create contact form -->
