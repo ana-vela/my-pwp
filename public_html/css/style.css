@@ -33,41 +33,26 @@ section {
 	margin: 30px 0;
 }
 
-.navbar {
-	text: black;
+
+#contact-form {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 70px;
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-	position: relative;
-	min-height: 100%;
-}
-body {
-	/* Margin bottom by footer height */
-	margin-bottom: 60px;
-}
-.footer {
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	/* Set the fixed height of the footer here */
-	height: 60px;
-	background-color: lightgray;
 
-		//*#f5f5f5; *//
-}
+
 
 
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
 
-.container {
+/*.container {
 	width: auto;
 	max-width: 680px;
-	padding: 0 15px;
+	padding: 0 40px;
 }
 .container .text-muted {
 	margin: 20px 0;
-}
+}-->
