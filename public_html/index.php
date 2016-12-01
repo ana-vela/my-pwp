@@ -99,7 +99,7 @@
 			<h1 class="section-heading">Let's Connect</h1>
 		</div>
 	</div>
-	<form id="contact-form" action="php/mailer.php" method="post">
+	<form id="contact-form" method="POST" action="php/mailer.php"  novalidate>
 		<div class="form-group">
 			<label for="name">Name <span class="text-danger">*</span></label>
 			<div class="input-group">
@@ -138,7 +138,7 @@
 		</div>
 
 		<!-- reCAPTCHA -->
-		<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+		<div class="g-recaptcha" data-sitekey="6Lfglg0UAAAAAKhR31tKdglArDc9FPGbGn6zB9ap"></div>
 
 		<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 		<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
