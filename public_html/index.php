@@ -5,7 +5,6 @@
 		<?php require_once("../public_html/lib/head-utils.php");?>
 	</head>
 
-
 	<!-- begin header and navbar-->
 	<header>
 		<nav class="navbar navbar-default navbar-fixed-bottom">
@@ -151,7 +150,4 @@
 			<div id="output-area"></div>
 		</div>
 	</div>
-
-
-
 </html>
