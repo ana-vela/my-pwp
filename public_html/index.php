@@ -81,7 +81,7 @@
 			<div class="row">
 				<div class="col-xs-12 col-md-6 portfolio-item">
 					<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-						<img src="../public_html/img/growify-screen.png" class="img-responsive" alt="growify app">
+						<img src="../public_html/img/screenshot-growify2.png" class="img-responsive" alt="growify app">
 					</a>
 				</div>
 					<div class="col-xs-12 col-md-6 portfolio-caption">
