@@ -14,7 +14,7 @@
 
 
 <!-- my custom css file -->
-<link rel="stylesheet" href="../public_html/css/style.css" type="text/css">
+<link rel="stylesheet" href="/public_html/css/style.css" type="text/css">
 
 <!-- jQuery (required for Bootstap's JS plugins) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>

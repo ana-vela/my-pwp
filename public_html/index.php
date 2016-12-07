@@ -2,7 +2,7 @@
 
 <html lang="en">
 	<head>
-		<?php require_once("../public_html/lib/head-utils.php");?>
+		<?php require_once("/public_html/lib/head-utils.php");?>
 	</head>
 
 	<!-- begin header and navbar-->
