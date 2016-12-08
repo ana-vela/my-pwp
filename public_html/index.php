@@ -62,7 +62,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<h1>About Me</h1>
-					<p>After coming up with ideas for websites and looking for resources to build them, I discovered that I would like to become a professional in the web develpement field. With this passion, I took the necessary steps to complete an immersive, instructor-led, mobile first, full-stack web development coding bootcamp where I enjoyed problem solving and taking ideas from the preliminary planning stages to completion while working with an agile development team. It is exhilarating to be part of the creative process in building something from scratch. When I am not coding, you can find me reading fiction, learning guitar chords, or enjoying the outdoors in beautiful Albuquerque, New Mexico.</p>
+					<p>After coming up with ideas for websites and looking for resources to build them, I discovered that I would like to become a professional in the web development field. With this passion, I took the necessary steps to complete an immersive, instructor-led, mobile first, full-stack web development coding bootcamp where I enjoyed problem solving and taking ideas from the preliminary planning stages to completion while working with an agile development team. It is exhilarating to be part of the creative process in building something from scratch. When I am not coding, you can find me reading fiction, learning guitar chords, or enjoying the outdoors in beautiful Albuquerque, New Mexico.</p>
 				</div>
 				<div class="col-md-6">
 					<img src="../public_html/img/keyboard.jpg" alt="table" class="img-responsive">
