@@ -41,6 +41,11 @@ html, body {
 	text-shadow: 1px 1px 0 #000;
 }
 
+.p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+
+}
 section {
 	margin: 60px 0;
 	padding: 60px 0;
