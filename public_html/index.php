@@ -143,7 +143,7 @@
 		</div>
 
 			<!-- reCAPTCHA -->
-			<div class="g-recaptcha" data-sitekey="6Lfglg0UAAAAAKhR31tKdglArDc9FPGbGn6zB9ap"></div>
+			<div class="g-recaptcha container-fluid" data-sitekey="6Lfglg0UAAAAAKhR31tKdglArDc9FPGbGn6zB9ap"></div>
 
 			<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 			<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
