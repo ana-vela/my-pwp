@@ -83,13 +83,13 @@
 			<div class="row">
 				<div class="col-xs-12 col-md-6 portfolio-item">
 					<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-						<img src="../public_html/img/screenshot-growify2.png" class="img-responsive" alt="growify app">
+						<img src="../public_html/img/growify-splash.png" class="img-responsive" alt="growify app">
 					</a>
 				</div>
 				<div class="col-xs-12 col-md-6 portfolio-caption">
 					<h4>Growify</h4>
 					<p>Growify is a web application for home gardeners. Users can get planting information based on weather data as well as local climate growing conditions. By selecting specific herbs and plants, users can create personalized garden lists in order to receive tailored growing information to improve their gardening decisions.</p>
-					<p>Languages and Frameworks: HTML5, CSS3, Bootstrap, MySQL, PHP and Angular 2 on a PC with Windows 10.</p>
+					<p>Languages and Frameworks: HTML5, CSS3, Bootstrap, MySQL, PHP, and Angular 2.</p>
 				</div>
 			</div> <!-- /.row -->
 		</div> <!-- container-fluid-->
@@ -143,10 +143,12 @@
 		</div>
 
 			<!-- reCAPTCHA -->
-			<div class="g-recaptcha container-fluid" data-sitekey="6Lfglg0UAAAAAKhR31tKdglArDc9FPGbGn6zB9ap"></div>
+			<div class="col-md-3">
+			<div class="g-recaptcha" data-sitekey="6Lfglg0UAAAAAKhR31tKdglArDc9FPGbGn6zB9ap"></div>
 
 			<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 			<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+				</div>
 		</form>
 
 		<!--empty area for form error/success output-->
