@@ -32,11 +32,13 @@ html, body {
 	text-align: center;
 	font-family: 'Lobster', cursive;
 	font-size: 5rem;
+	margin-top: 40px;
 }
 
 .jumbotron > h1  {
 	text-shadow: 2px 1px 0 #000;
 	font-size: 60px;
+
 }
 
 .jumbotron > h2 {
@@ -46,7 +48,7 @@ html, body {
 
 p {
 	font-family: 'Roboto', sans-serif;
-	font-size: 26px;
+	font-size: 18px;
 }
 section {
 	margin: 60px 0;
