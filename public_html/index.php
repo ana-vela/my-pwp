@@ -34,7 +34,7 @@
 							<span class="fa fa-github-square fa-3x" aria-hidden="true"></span></a>
 						<a href="https://www.linkedin.com/in/ana-vela">
 						<span class="fa fa-linkedin-square fa-3x" aria-hidden="true"></span></a>
-						<a href="https://twitter.com/AnaVela_WebDev">
+						<a href="https://twitter.com/AnaVelaWebDev">
 						<span class="fa fa-twitter-square fa-3x" aria-hidden="true"></span></a>
 					</div>
 				</div>
@@ -65,7 +65,7 @@
 					<p>After coming up with ideas for websites and looking for resources to build them, I discovered that I would like to become a professional in the web development field. With this passion, I took the necessary steps to complete an immersive, instructor-led, mobile first, full-stack web development coding bootcamp where I enjoyed problem solving and taking ideas from the preliminary planning stages to completion while working with an agile development team. It is exhilarating to be part of the creative process in building something from scratch. When I am not coding, you can find me reading fiction, learning guitar chords, or enjoying the outdoors in beautiful Albuquerque, New Mexico.</p>
 				</div>
 				<div class="col-md-6">
-					<img src="../public_html/img/keyboard.jpg" alt="table" class="img-responsive">
+					<img src="../img/keyboard.jpg" alt="table" class="img-responsive">
 				</div>
 			</div> <!-- /.row -->
 		</div> <!-- container-fluid -->
@@ -83,7 +83,7 @@
 			<div class="row">
 				<div class="col-xs-12 col-md-6 portfolio-item">
 					<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-						<img src="../public_html/img/growify-splash.png" class="img-responsive" alt="growify app">
+						<img src="../img/growify-splash.png" class="img-responsive" alt="growify app">
 					</a>
 				</div>
 				<div class="col-xs-12 col-md-6 portfolio-caption">
