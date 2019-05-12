@@ -163,7 +163,7 @@
 	<footer class="footer text-center">
 		<div class="container">
 			<div>
-				&copy;Ana Vela 2016
+				&copy;Ana Vela 2019
 			</div>
 		</div>
 	</footer>
