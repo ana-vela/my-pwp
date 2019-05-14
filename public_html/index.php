@@ -25,17 +25,17 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#">Home</a></li>
-						<li><a href="#about">About Me</a></li>
-						<li><a href="#portfolio">Portfolio</a></li>
+						<!--<li><a href="#about">About Me</a></li>
+						<li><a href="#portfolio">Portfolio</a></li>-->
 						<li><a href="#contact">Let's Connect</a></li>
 					</ul>
 					<div class="navbar-left">
 						<a href="https://github.com/ana-vela">
-							<span class="fa fa-github-square fa-3x" aria-hidden="true"></span></a>
+							<span class="fa fa-github-square fa-3x" style="color:white" aria-hidden="true"></span></a>
 						<a href="https://www.linkedin.com/in/ana-vela">
-						<span class="fa fa-linkedin-square fa-3x" aria-hidden="true"></span></a>
+						<span class="fa fa-linkedin-square fa-3x" style="color:white" aria-hidden="true"></span></a>
 						<a href="https://twitter.com/AnaVelaWebDev">
-						<span class="fa fa-twitter-square fa-3x" aria-hidden="true"></span></a>
+						<span class="fa fa-twitter-square fa-3x" style="color:white" aria-hidden="true"></span></a>
 					</div>
 				</div>
 			</div>
@@ -56,8 +56,8 @@
 		</div>
 	</div>
 
-	<!-- about me section -->
-	<section id="about">
+	<!-- about me section-->
+	<!--<section id="about">
 		<div class="container-fluid center-fixed">
 			<div class="row">
 				<div class="col-md-6">
@@ -67,13 +67,13 @@
 				<div class="col-md-6">
 					<img src="../img/keyboard.jpg" alt="table" class="img-responsive">
 				</div>
-			</div> <!-- /.row -->
-		</div> <!-- container-fluid -->
-	</section>
+			</div>
+		</div>
+	</section> -->
 
 
 	<!-- Portfolio Grid Section -->
-	<section id="portfolio">
+	<!--<section id="portfolio">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="text-center">
@@ -91,9 +91,9 @@
 					<p>Growify is a web application for home gardeners. Users can get planting information based on weather data as well as local climate growing conditions. By selecting specific herbs and plants, users can create personalized garden lists in order to receive tailored growing information to improve their gardening decisions.</p>
 					<p>Languages and Frameworks: HTML5, CSS3, Bootstrap, MySQL, PHP, and Angular 2.</p>
 				</div>
-			</div> <!-- /.row -->
-		</div> <!-- container-fluid-->
-	</section>
+			</div>
+		</div>
+	</section> -->
 
 	<!--Begin Contact Form-->
 	<section id="contact">
