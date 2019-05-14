@@ -3,10 +3,12 @@ html, body {
 	width: 100%;
 	height: 100%;
 	margin: 0 auto;
+	background-color: #8CA6DB;
+    background-image: linear-gradient(to right, #B993D6, #8CA6DB);
+
 }
 
 .welcome {
-	background: url("../img/computer.jpg") no-repeat center center fixed;
 	background-size: cover;
 	background-position: center;
 	width: 100%;
@@ -15,9 +17,17 @@ html, body {
 
 
 .navbar {
-	background-color: white;
+	background-color: transparent;
+	border: 1px solid transparent;
 	width: 100%;
-	font-size: 18px;
+	font-size: 24px;
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+	text-shadow: 1px .5px 0 #000;
+
 }
 
 .jumbotron {
@@ -37,7 +47,7 @@ html, body {
 
 .jumbotron > h1  {
 	text-shadow: 2px 1px 0 #000;
-	font-size: 60px;
+	font-size: 90px;
 
 }
 
@@ -48,7 +58,7 @@ html, body {
 
 p {
 	font-family: 'Roboto', sans-serif;
-	font-size: 18px;
+	font-size: 24px;
 }
 section {
 	margin: 60px 0;
@@ -56,8 +66,13 @@ section {
 	width: 100%;
 }
 
+.section-heading {
+	color: white;
+	text-shadow: 1px 1px 0 #000;
+
+}
+
 #contact-form {
 	margin-left: 50px;
 	margin-right: 50px;
-
 }
